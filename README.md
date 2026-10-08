@@ -107,4 +107,125 @@ I continuously update this repository as I learn and practice new concepts.
 
 * Prime numbers
 * Armstrong numbers
-* Palind
+* Palindrome numbers
+* Factorial
+* Fibonacci series
+* Reverse numbers
+* Sum of digits
+* Even and odd numbers
+* Mathematical problems
+
+### 🔹 Object-Oriented Programming
+
+* Classes and Objects
+* Constructors
+* Methods
+* Encapsulation
+* Inheritance
+* Polymorphism
+* Abstraction
+
+### 🔹 Python for Data Science
+
+* NumPy
+* Pandas
+* Data Cleaning
+* Data Manipulation
+* Data Analysis
+* Data Visualization
+* Matplotlib
+
+> 🚀 More Data Science and Machine Learning programs will be added as I continue learning.
+
+---
+
+## 🛠️ Technologies & Tools
+
+* **Python**
+* **Jupyter Notebook**
+* **Anaconda**
+* **NumPy**
+* **Pandas**
+* **Matplotlib**
+* **VS Code**
+* **Git & GitHub**
+
+---
+
+## ▶️ How to Run
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/abinayakumar-06/pythonprograms.git
+```
+
+### 2. Open the project
+
+Open the repository using **VS Code, Jupyter Notebook, or Anaconda**.
+
+### 3. Run a Python program
+
+```bash
+python program_name.py
+```
+
+For Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
+
+---
+
+## 📈 Learning Progress
+
+| Topic                              | Status        |
+| ---------------------------------- | ------------- |
+| Python Basics                      | ✅ Practicing  |
+| Conditional Statements             | ✅ Practicing  |
+| Loops                              | ✅ Practicing  |
+| Pattern Programs                   | ✅ Practicing  |
+| Lists, Tuples, Sets & Dictionaries | ✅ Practicing  |
+| Functions                          | ✅ Practicing  |
+| Strings                            | 🔄 Practicing |
+| OOP                                | 🔄 Learning   |
+| NumPy                              | 🔄 Learning   |
+| Pandas                             | 🔄 Learning   |
+| Data Visualization                 | 🔄 Learning   |
+| Data Science                       | 🔄 Learning   |
+| Machine Learning                   | 🔜 Upcoming   |
+
+---
+
+## 🌱 My Learning Journey
+
+This repository represents my journey of learning **Python from the fundamentals to Data Science concepts**.
+
+I am practicing Python programs regularly to improve my **coding skills, logical thinking, problem-solving ability, and data analysis skills**.
+
+My goal is to gradually progress from:
+
+**Python Fundamentals → Data Structures → NumPy → Pandas → Data Visualization → Data Science → Machine Learning → AI**
+
+---
+
+## 👩‍💻 About Me
+
+**Abinaya Kumar**
+🎓 B.Tech Artificial Intelligence & Data Science Student
+💻 Aspiring AI & Data Science Developer
+📍 Tamil Nadu, India
+
+### Connect With Me
+
+* 💼 LinkedIn: [Abinaya Kumar](https://www.linkedin.com/in/abinayakumar06/)
+* 🐙 GitHub: [abinayakumar-06](https://github.com/abinayakumar-06)
+
+---
+
+<div align="center">
+
+### ⭐ Learn Python • Practice Daily • Build Your Skills 🚀
+
+</div>
